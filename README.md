@@ -9,7 +9,7 @@ desarrollo de IntelliJ IDEA Community 19.
 Boxing World Series simula la retransmisión en vivo mediante texto-conferencia de una final de boxeo entre Tyson y Rocky,
 dos boxeadores de élite mundial, en los que el periodista/programa retransmite los tres combates de la final, realiza 
 entrevistas a los medios y muestra por consola e interfaz gráfica el post-combate utilizando ficheros, para guardar 
-la información y la interfaz gráfica de Javawing. 
+la información y la interfaz gráfica de Javaswing. 
 
 ## Manual de usuario
 
