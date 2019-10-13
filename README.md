@@ -14,4 +14,21 @@ El proyecto se encuentra en la carpeta testProyectoEkaitz y bastaría con ejecut
 La aplicación se basa en la utilización de ficheros y las correspondientes funciones realizadas sobre ellos,
 creación, abrir y leer los datos para su posterior tratamiento.
 
-Se utiliza por un lado diferentes clases de Java con sus correspondientes métodos y atributos
+Se utiliza por un lado diferentes clases de Java con sus correspondientes métodos y atributos:
+
+![](imagenes/jornada.PNG)
+
+Por otro lado ha sido de gran utilidad la utilización de un hilo:
+
+![](imagenes/hilo.png)
+
+Objetos serializables:
+
+![](imagenes/seri.PNG)
+
+utilización de archivos Xml:
+
+![](imagenes/seri.PNG)
+
+
+
