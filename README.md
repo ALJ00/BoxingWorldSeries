@@ -4,6 +4,13 @@
 Boxing World Series es una aplicación de consola desarrolla en lenguaje de programación Java.8 con el entorono de 
 desarrollo de IntelliJ IDEA Community 19.
 
+## Simulación
+
+Boxing World Series simula la retransmisión en vivo mediante texto-conferencia de una final de boxeo entre Tyson y Rocky,
+dos boxeadores de élite mundial, en los que el periodista/programa retransmite los tres combates de la final, realiza 
+entrevistas a los medios y muestra por consola e interfaz gráfica el post-combate utilizando ficheros, para guardar 
+la información y la interfaz gráfica de Javawing. 
+
 ## Manual de usuario
 
 El proyecto se encuentra en la carpeta testProyectoEkaitz y bastaría con ejecutar la clase Main situada en 
@@ -26,9 +33,15 @@ Objetos serializables:
 
 ![](imagenes/seri.PNG)
 
-utilización de archivos Xml:
+Utilización de archivos Xml:
 
-![](imagenes/seri.PNG)
+![](imagenes/xml.PNG)
+
+Y trabajo con otros tipos de archivos:
+
+![](imagenes/escribir.PNG)
+
+
 
 
 
