@@ -14,7 +14,7 @@ la información y la interfaz gráfica de Javaswing.
 ## Manual de usuario
 
 El proyecto se encuentra en la carpeta testProyectoEkaitz y bastaría con ejecutar la clase Main situada en 
-/src/com/company.
+/src/com/company/Main.java
 
 ## Características del proyecto
 
